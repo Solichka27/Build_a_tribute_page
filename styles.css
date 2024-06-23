@@ -1,0 +1,40 @@
+body{
+background-color:#EEEEEE;
+}
+h1{
+    margin: -10px -10px 25px -10px;
+    text-align: center;
+    background-color: gray;
+}
+#title{
+    padding: 10px 10px;
+}
+img{
+    display: block;
+    margin-top: 20px;
+}
+#image{
+    max-width:100%;
+    height: auto;
+    margin: 0 auto;
+    justify-content: center;
+    border: 2px solid black;
+}
+#img-caption{
+    margin: 5px 5px;
+    text-align: center;
+    justify-content: center;
+}
+section, #tribute-info{
+    display:block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: justify;
+}
+.quote{
+    font-style:italic;
+}
+#tribute-info{
+    margin-top: 40px;
+}
+   
